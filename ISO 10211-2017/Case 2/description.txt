@@ -1,0 +1,8 @@
+- two-dimensional model
+- concrete, wood, insulation and aluminium
+- AB=500 mm, AC=6 mm, CD=15 mm, CF=5 mm, EM=40 mm, GJ=1.5 mm, IM=1.5 mm, FG-KJ=1.5 mm
+- thermal conductivity: 1: 1.15 W/m*K, 2: 0.12 W/m*K, 3: 0.029 W/m*K, 4: 230 W/m*K
+- BCs: AB: 0*C and 0.06 W/m2*K, HI: 20*C and 0.11 W/m2*K
+- solution: A: 7.1*C, C: 7.9*C, F: 16.4*C, H:16.8*C, D:6.3*C, G:16.3*C, B:0.8*C, E:0.8*C, I:18.3*C
+- total heat flow rate: 9.5 W/m
+- max allowable differences: 0.1*C and 0.1 W/m
