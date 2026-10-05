@@ -1,0 +1,2 @@
+NAFEMS (National Agency for Finite Element Methods and Standards) is a not-for-profit organisation founded in 1983 to "promote the safe and reliable use of finite element and related technology"
+NAFEMS is known for its publications, many of them including commonly used FEA benchmarks, such as "The Standard NAFEMS Benchmarks", October 1990
