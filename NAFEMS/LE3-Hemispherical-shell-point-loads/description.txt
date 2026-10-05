@@ -1,0 +1,4 @@
+- hemispherical shell with R=10 m and t=0.04 m
+- symmetry BCs and two point loads 2000 N each
+- E = 68.25 GPa, v = 0.3
+- max displacement: 185 mm
