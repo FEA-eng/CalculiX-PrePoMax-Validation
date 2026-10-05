@@ -1,0 +1,6 @@
+- three-dimensional bridge with an iron bar penetrating an insulation layer
+- insulation: 1000x1000x200 mm, iron bar: 600x100x50 mm
+- thermal conductivity: insulation: 0.1 W/m*K, iron bar: 50 W/m*K
+- BCs: internal: 1*C and 0.10 W/m2*K, external: 0*C and 0.10 W/m2*K, cut-off planes: adiabatic
+- solution: heat flow: 0.540 W, highest surface temperature on the external side: 0.805 *C
+- max allowable difference: 0.005*C and 1% for heat flow
