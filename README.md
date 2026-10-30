@@ -5,3 +5,4 @@ Currently included cases:
 * ISO 10211-2017 - cases 1-4
 * NAFEMS:
   * LE3: Hemispherical shell with point loads
+  * R0031/1: Laminated strip under three-point bending
