@@ -1,0 +1,21 @@
+- laminated strip length_x=50 mm (0° fiber direction), width_y=10 mm
+- layers:
+ * t1=0.1, angle=0°
+ * t2=0.1, angle=90°
+ * t3=0.1, angle=0°
+ * t4=0.4, angle=90°
+ * t5=0.1, angle=0°
+ * t6=0.1, angle=90°
+ * t7=0.1, angle=0°
+- material (lamina):
+ * E1=100000 MPa
+ * E2=5000 MPa
+ * v12=0.3
+ * G12=3000 MPa
+ * G13=3000 MPa
+ * G23=2000 MPa
+- vertical supports at 10 mm from each end
+- line load 10 N/mm in the middle
+- max displacement: -1.06 mm
+- max sigma_11: 684 MPa
+- max sigma_13: -4.1 MPa
